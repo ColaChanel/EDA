@@ -26,3 +26,9 @@ These are some of the major steps carried out for this type of analysis:
 12). Get the basic information about the data
 
 13). Create correlation plot
+
+About content inside:
+
+<details><summary>В папке model - сохраненные веса моделей</summary></details>
+<details><summary>В папке Reports - сохраненные аналитические отчёты </summary></details>
+<details><summary>В папке titanic - набор данных по титанику</summary></details>
